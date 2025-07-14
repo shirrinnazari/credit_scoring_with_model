@@ -8,3 +8,4 @@ A simple Streamlit app that uses a Logistic Regression model to predict creditwo
 ```bash
 python train_model.py
 # credit_scoring_with_model
+# credit_scoring_with_model
